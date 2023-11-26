@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QRCoder/static/css/main.e2f56b1c.css",
+    "main.js": "/QRCoder/static/js/main.d7b5a56d.js",
+    "index.html": "/QRCoder/index.html",
+    "main.e2f56b1c.css.map": "/QRCoder/static/css/main.e2f56b1c.css.map",
+    "main.d7b5a56d.js.map": "/QRCoder/static/js/main.d7b5a56d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f56b1c.css",
+    "static/js/main.d7b5a56d.js"
+  ]
+}
